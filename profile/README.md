@@ -2,9 +2,18 @@
 
 We are 5 devs from 42 Lyon making a web application.
 
-See the main project, [Transcendence](https://raw.githubusercontent.com/Raiders-io/Transcendence/) repository.
+The team :
+
+- Pierre (ppontet)
+- Hyacine (halnuma)
+- Sebastien (secros)
+- Yazid (yabokhar)
+- Valentin (vdurand)
+
+See the main project, [Transcendence](https://github.com/Raiders-io/Transcendence/) repository.
 
 ## Projects Maintainers
+
 - Transcendence : Pierre
 - ObjectStorage : Pierre
 - deployment : Pierre, Hyacine
@@ -16,6 +25,7 @@ See the main project, [Transcendence](https://raw.githubusercontent.com/Raiders-
 - backend_exam : Yazid
 
 ## API-testing Maintainers
+
 - BrunObjectStorage : Pierre
 - BrunAuth : Pierre
 - deployment (using a testing ui on a browser) : Pierre
