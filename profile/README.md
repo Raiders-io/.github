@@ -19,7 +19,7 @@ The team :
 - ObjectStorage : Pierre
 - deployment : Pierre, Hyacine
 - Backend-Lesson : Sebastien
-- Frontend : Hyacine, and others
+- Frontend : Everyone
 - Backend-User-Service : Valentin
 - Backend_Auth-Service : Hyacine, Pierre
 - Backend-Messaging-Service : Hyacine
