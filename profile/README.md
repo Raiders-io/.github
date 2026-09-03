@@ -24,9 +24,3 @@ The team :
 - Backend_Auth-Service : Hyacine, Pierre
 - Backend-Messaging-Service : Hyacine
 - backend_exam : Yazid
-
-## API-testing Maintainers
-
-- BrunObjectStorage : Pierre
-- BrunAuth : Pierre
-- deployment (using a testing ui on a browser) : Pierre
