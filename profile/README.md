@@ -12,7 +12,6 @@ The team :
 - Yazid (yabokhar) : [SiliconMoloch](https://github.com/SiliconMoloch)
 - Valentin (vdurand) : [Furia25](https://github.com/Furia25)
 
-
 ## Projects Maintainers
 
 - Transcendence : Pierre
@@ -23,4 +22,5 @@ The team :
 - Backend-User-Service : Valentin
 - Backend_Auth-Service : Hyacine, Pierre
 - Backend-Messaging-Service : Hyacine
-- backend_exam : Yazid
+- exam : Yazid
+- Message-Broker : Sebastien, Pierre
